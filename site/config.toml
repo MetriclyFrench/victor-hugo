@@ -139,5 +139,5 @@ paginate = 10
 
 [[menu.main]]
 	name = "Blog"
-	url  = "blog/"
+	url  = "post/"
 	weight = 10
